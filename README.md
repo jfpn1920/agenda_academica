@@ -1,38 +1,8 @@
-<div align="center">
+<p style="font-size:42px; font-weight:700; text-align: center;">Agenda académica</p>
 
-<div style="background:#47A9E8;padding:30px;">
+<p style="margin-top: 14px; text-align: center;"> <img src="https://img.shields.io/badge/Lenguaje%20de%20programación-PSeInt-FF3131?style=for-the-badge&labelColor=D9D9D9&color=18C964" alt="Lenguaje"> <img src="https://img.shields.io/badge/Estado%20del%20proyecto-Finalizado-18C964?style=for-the-badge&labelColor=D9D9D9&color=18C964" alt="Estado"> </p>
 
-<h1 style="margin:0; font-size:42px; font-weight:700; color:black;">Agenda académica</h1>
-
-</div>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Lenguaje%20de%20programación-PSeInt-FF3131?style=for-the-badge&labelColor=D9D9D9&color=18C964">
-
-<img src="https://img.shields.io/badge/Estado%20del%20proyecto-Finalizado-18C964?style=for-the-badge&labelColor=D9D9D9&color=18C964">
-
-<img src="https://img.shields.io/badge/Versión-1.0-2563EB?style=for-the-badge">
-
-</div>
-
----
-
-# 📖 Presentación
-
-<p align="justify">
-
-<strong>Agenda académica</strong> es un proyecto desarrollado en <strong>PSeInt</strong> cuyo propósito es simular una pequeña aplicación de consola para la administración de información académica.
-
-El programa permite registrar una agenda académica, crear exámenes, editar la información almacenada, eliminar registros y consultar toda la información registrada mediante un menú interactivo.
-
-Este proyecto está orientado al aprendizaje de la lógica de programación utilizando estructuras fundamentales antes de implementarlas en otros lenguajes de programación.
-
-</p>
+<p align="justify"><strong>Agenda académica</strong> es un proyecto desarrollado en <strong>PSeInt</strong> cuyo propósito es simular una pequeña aplicación de consola para la administración de información académica, el programa permite registrar una agenda académica, crear exámenes, editar la información almacenada, eliminar registros y consultar toda la información registrada mediante un menú interactivo en este proyecto está orientado al aprendizaje de la lógica de programación utilizando estructuras fundamentales antes de implementarlas en otros lenguajes de programación.</p>
 
 ---
 
