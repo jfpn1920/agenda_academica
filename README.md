@@ -1,27 +1,16 @@
-<p style="font-size:42px; font-weight:700; text-align: center;">Agenda académica</p>
+# 👋 ¡Bienvenidos usuario! a mi proyecto a mi proyecto agenda académica
 
-<p style="margin-top: 14px; text-align: center;"> <img src="https://img.shields.io/badge/Lenguaje%20de%20programación-PSeInt-FF3131?style=for-the-badge&labelColor=D9D9D9&color=18C964" alt="Lenguaje"> <img src="https://img.shields.io/badge/Estado%20del%20proyecto-Finalizado-18C964?style=for-the-badge&labelColor=D9D9D9&color=18C964" alt="Estado"> </p>
-
-<p align="justify"><strong>Agenda académica</strong> es un proyecto desarrollado en <strong>PSeInt</strong> cuyo propósito es simular una pequeña aplicación de consola para la administración de información académica, el programa permite registrar una agenda académica, crear exámenes, editar la información almacenada, eliminar registros y consultar toda la información registrada mediante un menú interactivo en este proyecto está orientado al aprendizaje de la lógica de programación utilizando estructuras fundamentales antes de implementarlas en otros lenguajes de programación.</p>
-
----
-
-# 🎯 Objetivo
-
-<p align="justify">
-
-Desarrollar una aplicación de consola que permita administrar información académica mediante operaciones básicas de registro, edición, consulta y eliminación, fortaleciendo el aprendizaje de la programación estructurada utilizando PSeInt.
-
+<p> 
+  <img src="https://img.shields.io/badge/Lenguaje%20de%20programación-PSeInt-FF3131?style=for-the-badge&labelColor=D9D9D9&color=18C964" alt="Lenguaje"> <img src="https://img.shields.io/badge/Estado%20del%20proyecto-Finalizado-18C964?style=for-the-badge&labelColor=D9D9D9&color=18C964" alt="Estado"> 
 </p>
 
----
-
-# 🛠️ Temas utilizados
-
 <p align="justify">
+  <strong>Agenda académica</strong> es un proyecto desarrollado en <strong>PSeInt</strong> cuyo propósito es simular una pequeña aplicación de consola para la administración de información académica, el programa permite registrar una agenda académica, crear exámenes, editar la información almacenada, eliminar registros y consultar toda la información registrada mediante un menú interactivo en este proyecto está orientado al aprendizaje de la lógica de programación utilizando estructuras fundamentales antes de implementarlas en otros lenguajes de programación.
+</p>
 
-Durante el desarrollo del proyecto se aplicaron los siguientes conceptos de programación en <strong>PSeInt</strong>.
-
+### 🛠️ Temas utilizados
+<p align="justify">
+  Durante el desarrollo del proyecto se aplicaron los siguientes conceptos de programación en <strong>PSeInt</strong>.
 </p>
 
 - Declaración de variables.
