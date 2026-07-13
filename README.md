@@ -1,14 +1,14 @@
 <h1 align="center">¡Bienvenidos usuario! a mi proyecto agenda cademico</h1>
 
 <p align="justify">
-  <strong>Agenda académica</strong> es un proyecto desarrollado en <strong>PSeInt</strong> cuyo propósito es simular una pequeña aplicación de consola para la administración de información académica, el programa permite registrar una agenda académica, crear exámenes, editar la información almacenada, eliminar registros y consultar toda la información registrada mediante un menú interactivo en este proyecto está orientado al aprendizaje de la lógica de programación utilizando estructuras fundamentales antes de implementarlas en otros lenguajes de programación.
+  <strong>Agenda académica</strong> es un proyecto desarrollado en <strong>pseint</strong> cuyo propósito es simular una pequeña aplicación de consola para la administración de información académica, el programa permite registrar una agenda académica, crear exámenes, editar la información almacenada, eliminar registros y consultar toda la información registrada mediante un menú interactivo en este proyecto está orientado al aprendizaje de la lógica de programación utilizando estructuras fundamentales antes de implementarlas en otros lenguajes de programación.
 </p>
 
 #
 
 ### 🛠️ Temas utilizados
 <p align="justify">
-  Durante el desarrollo del proyecto se aplicaron los siguientes conceptos de programación en <strong>PSeInt</strong>.
+  Durante el desarrollo del proyecto se aplicaron los siguientes conceptos de programación en <strong>pseint</strong>.
 </p>
 
 - Declaración de variables.
@@ -16,16 +16,16 @@
 - Tipos de datos.
   - Entero.
   - Cadena.
-- Entrada de datos (`Leer`).
-- Salida de información (`Escribir`).
-- Ciclos repetitivos (`Repetir...Hasta Que`).
-- Estructuras condicionales (`Si...Entonces...SiNo`).
-- Selección múltiple (`Segun`).
+- Entrada de datos (`leer`).
+- Salida de información (`escribir`).
+- Ciclos repetitivos (`repetir...hasta que`).
+- Estructuras condicionales (`si...entonces...sino`).
+- Selección múltiple (`segun`).
 - Menús interactivos.
 - Asignación de valores.
 - Validación de registros.
-- Limpieza de pantalla (`Limpiar Pantalla`).
-- Espera de teclado (`Esperar Tecla`).
+- Limpieza de pantalla (`limpiar pantalla`).
+- Espera de teclado (`esperar tecla`).
 
 #
 
@@ -46,7 +46,7 @@ El sistema permite realizar las siguientes operaciones:
 </p>
 
 <p align="justify">
-  <b>2. Menú principal:</b>El programa utiliza un ciclo <code>Repetir...Hasta Que</code>, permitiendo que el menú permanezca activo hasta que el usuario seleccione la opción de salir, cada opción del menú es controlada mediante la estructura <code>Segun</code>, facilitando la organización del algoritmo:
+  <b>2. Menú principal:</b>El programa utiliza un ciclo <code>repetir...hasta que</code>, permitiendo que el menú permanezca activo hasta que el usuario seleccione la opción de salir, cada opción del menú es controlada mediante la estructura <code>segun</code>, facilitando la organización del algoritmo:
 </p>
 
 <p align="justify">
