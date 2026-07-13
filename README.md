@@ -1,10 +1,7 @@
 ## 👋 ¡Bienvenidos usuario! a mi proyecto agenda cademico 👋 
 
 <p>
-  <img src="https://img.shields.io/badge/Lenguaje%20-PSeInt-FF3131?style=for-the-badge&labelColor=D9D9D9&color=18C964" alt="Lenguaje"> <img src="https://img.shields.io/badge/Proyecto-Agenda%20Académica-4F46E5?style=for-the-badge&labelColor=D9D9D9&color=18C964" alt="Proyecto"> <img src="https://img.shields.io/badge/Estado%20-Finalizado-18C964?style=for-the-badge&labelColor=D9D9D9&color=18C964" alt="Estado">  <a href="https://TU-PORTAFOLIO.com">
-    <img src="https://img.shields.io/badge/Ver%20Portafolio-Visitar-F59E0B?style=for-the-badge&labelColor=D9D9D9&color=F59E0B" alt="Portafolio">
-  </a> 
-
+  <img src="https://img.shields.io/badge/Lenguaje de programacion%20-PSeInt-FF3131?style=for-the-badge&labelColor=D9D9D9&color=18C964" alt="Lenguaje"> <img src="https://img.shields.io/badge/Proyecto-Agenda%20Académica-4F46E5?style=for-the-badge&labelColor=D9D9D9&color=18C964" alt="Proyecto"> <img src="https://img.shields.io/badge/Estado del proyecto%20-Finalizado-18C964?style=for-the-badge&labelColor=D9D9D9&color=18C964" alt="Estado">
 </p>
 
 <p align="justify">
