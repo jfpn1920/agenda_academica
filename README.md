@@ -1,4 +1,4 @@
-### 👋 ¡Bienvenidos! a mi proyecto a mi proyecto agenda académico
+<p style="text-align: center;">👋 ¡Bienvenidos! a mi proyecto a mi proyecto agenda académico</p>
 
 <p> 
   <img src="https://img.shields.io/badge/Lenguaje%20de%20programación-PSeInt-FF3131?style=for-the-badge&labelColor=D9D9D9&color=18C964" alt="Lenguaje"> <img src="https://img.shields.io/badge/Estado%20del%20proyecto-Finalizado-18C964?style=for-the-badge&labelColor=D9D9D9&color=18C964" alt="Estado"> 
