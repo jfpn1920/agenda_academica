@@ -1,4 +1,8 @@
-### 👋 ¡Bienvenidos! a mi proyecto a mi proyecto agenda académica
+<<<<<<< HEAD
+### 👋 ¡Bienvenidos! a mi proyecto a mi proyecto agenda académico
+=======
+# 👋 ¡Bienvenidos! a mi proyecto a mi proyecto agenda académico
+>>>>>>> 8822c972e786bfea2943f4b1f1004886f202a072
 
 <p> 
   <img src="https://img.shields.io/badge/Lenguaje%20de%20programación-PSeInt-FF3131?style=for-the-badge&labelColor=D9D9D9&color=18C964" alt="Lenguaje"> <img src="https://img.shields.io/badge/Estado%20del%20proyecto-Finalizado-18C964?style=for-the-badge&labelColor=D9D9D9&color=18C964" alt="Estado"> 
@@ -33,7 +37,11 @@
 
 #
 
-### 📂 Menu principal de agenda academica
+<<<<<<< HEAD
+### 📂 Menu principal de agenda academico
+=======
+### 📂 Funcionalidades
+>>>>>>> 8822c972e786bfea2943f4b1f1004886f202a072
 
 El sistema permite realizar las siguientes operaciones:
 
@@ -63,6 +71,7 @@ El sistema permite realizar las siguientes operaciones:
   <b>4. Crear examen:</b> Permite registrar el nombre del examen, materia y profesor. Al finalizar se muestra el identificador correspondiente.
 </p>
 
+<<<<<<< HEAD
 <p align="justify">
   <b>5. Editar información:</b> El usuario puede modificar la agenda académica y examen, ya que antes de editar, el algoritmo verifica que exista información previamente registrada.
 </p>
@@ -78,3 +87,35 @@ El sistema permite realizar las siguientes operaciones:
 <p align="justify">
   <b>8. Salir del menu principal:</b> Finaliza la ejecución del programa mostrando un mensaje de despedida.
 </p>
+=======
+### ✏️ Editar información
+
+El usuario puede modificar:
+
+- Agenda académica.
+- Examen.
+
+Antes de editar, el algoritmo verifica que exista información previamente registrada.
+
+---
+
+### 🗑️ Eliminar información
+
+Permite eliminar registros utilizando su identificador.
+
+El sistema valida que el ID exista antes de eliminar la información.
+
+---
+
+### 📄 Consultar información
+
+Muestra todos los datos almacenados.
+
+Si no existen registros, el programa informa que no hay información disponible.
+
+---
+
+### 🚪 Salir
+
+Finaliza la ejecución del programa mostrando un mensaje de despedida.
+>>>>>>> 8822c972e786bfea2943f4b1f1004886f202a072
