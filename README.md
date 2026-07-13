@@ -1,6 +1,6 @@
 <h1 align="center">¡Bienvenidos usuario! a mi proyecto agenda cademico</h1>
 
-<p align="center">
+<p align="justify">
 
 <img src="https://img.shields.io/badge/Lenguaje%20de%20programación-PSeInt-18C964?style=for-the-badge&labelColor=D9D9D9">
 
