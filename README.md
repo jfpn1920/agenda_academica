@@ -2,7 +2,7 @@
 
 <p align="justify">
   <img src="https://img.shields.io/badge/Lenguaje%20de%20programación-PSeInt-18C964?style=for-the-badge&labelColor=D9D9D9">
-  <img src="https://img.shields.io/badge/Proyecto-Agenda%20Académica-18C964?style=for-the-badge&labelColor=D9D9D9">
+  <img src="https://img.shields.io/badge/Proyecto-Agenda%20Académica-18C964?style=for-the-badge&labelColor=D9D9D9" width="290">
   <img src="https://img.shields.io/badge/Estado%20del%20proyecto-Finalizado-18C964?style=for-the-badge&labelColor=D9D9D9" width="290">
 </p>
 
