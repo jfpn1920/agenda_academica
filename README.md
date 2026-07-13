@@ -1,12 +1,6 @@
 <h1 align="center">¡Bienvenidos usuario! a mi proyecto agenda cademico</h1>
 
 <p align="justify">
-  <img src="https://img.shields.io/badge/Lenguaje%20de%20programación-PSeInt-18C964?style=for-the-badge&labelColor=D9D9D9">
-  <img src="https://img.shields.io/badge/Proyecto de-Agenda%20Académica-18C964?style=for-the-badge&labelColor=D9D9D9" style="margin-right:-1120px;">
-  <img src="https://img.shields.io/badge/Estado%20del%20proyecto-Finalizado-18C964?style=for-the-badge&labelColor=D9D9D9" >
-</p>
-
-<p align="justify">
   <strong>Agenda académica</strong> es un proyecto desarrollado en <strong>PSeInt</strong> cuyo propósito es simular una pequeña aplicación de consola para la administración de información académica, el programa permite registrar una agenda académica, crear exámenes, editar la información almacenada, eliminar registros y consultar toda la información registrada mediante un menú interactivo en este proyecto está orientado al aprendizaje de la lógica de programación utilizando estructuras fundamentales antes de implementarlas en otros lenguajes de programación.
 </p>
 
