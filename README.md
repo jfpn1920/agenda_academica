@@ -1,4 +1,4 @@
-<p style="text-align: center;">👋 ¡Bienvenidos! a mi proyecto a mi proyecto agenda académico</p>
+<div style="text-align: center; font-size:30px; font-weight: bold;">👋 ¡Bienvenidos! a mi proyecto a mi proyecto agenda académico</div>
 
 <p> 
   <img src="https://img.shields.io/badge/Lenguaje%20de%20programación-PSeInt-FF3131?style=for-the-badge&labelColor=D9D9D9&color=18C964" alt="Lenguaje"> <img src="https://img.shields.io/badge/Estado%20del%20proyecto-Finalizado-18C964?style=for-the-badge&labelColor=D9D9D9&color=18C964" alt="Estado"> 
