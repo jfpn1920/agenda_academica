@@ -132,7 +132,6 @@ Algoritmo agenda_academica
 			5:
 				Limpiar Pantalla
 				Escribir "informacion academica"
-				Escribir ""
 				Escribir "agenda"
 				Si profesor = "" Entonces
 					Escribir "sin registro."
@@ -142,7 +141,6 @@ Algoritmo agenda_academica
 					Escribir "materia: ", materia
 					Escribir "tarea: ", tarea
 				FinSi
-				Escribir ""
 				Escribir "examen"
 				Si nombreExamen = "" Entonces
 					Escribir "sin registro."
@@ -161,7 +159,6 @@ Algoritmo agenda_academica
 				Escribir "opcion no valida."
 		FinSegun
 		Si opcion <> 6 Entonces
-			Escribir ""
 			Escribir "presione una tecla para continuar..."
 			Esperar Tecla
 		FinSi
